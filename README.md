@@ -32,17 +32,20 @@
 
 ---
 
-### 프로그래밍 역량
+### 기술스택
 
 ---
 
-- JavaScript level 3
-- HTML level 3
-- CSS level 3
-- SQL level 2
-- Java level 3
-- Spring level 3
-- React level 3
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Java
+- Spring
+- SpringBoot
+- React
+- Redux
+- Python
 
 ---
 
@@ -70,6 +73,7 @@
 #SpringBoot #mysql #redis #git
 
 링크 : [UCI](https://github.com/tjsgnrla97/UCI)
+https://github.com/tjsgnrla97/UCI
 
 ---
 
@@ -123,6 +127,7 @@
 #React #NodeJs #axios #redux #styled-component #git
 
 링크 : [짜조](https://github.com/tjsgnrla97/ZZAZO)
+https://github.com/tjsgnrla97/ZZAZO
 
 ---
 
@@ -145,3 +150,5 @@
 #React #NodeJs #axios #redux #styled-component #git
 
 링크 : [누리봄](https://github.com/tjsgnrla97/NURIBOM)
+https://github.com/tjsgnrla97/NURIBOM
+
