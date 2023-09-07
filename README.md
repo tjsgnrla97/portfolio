@@ -166,4 +166,19 @@ https://github.com/tjsgnrla97/ZZAZO
 링크 : [누리봄](https://github.com/tjsgnrla97/NURIBOM)
 https://github.com/tjsgnrla97/NURIBOM
 
+---
+
+### 외국어/자격증/수상경력
+
+## 외국어
+
+# 일본어 JLPT N1 (2018.01.21)
+
+### 대외활동
+
+## 교육수강
+
+# 삼성 청년 SW 아카데미 (2022.01 - 2022.12)
+
+
 
