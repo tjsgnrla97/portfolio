@@ -27,8 +27,22 @@
 
 한남대학교
 정보통신공학과
+공학사(정보통신공학사)
+(2022.02.11)
 
 교류유학 후쿠이대학, 일본
+(2019.03.01 - 2020.02.28)
+
+### 연락처
+
+email : tjsgnrla97@gmail.com
+
+백준 : [백준](https://solved.ac/profile/tjsgnrla)
+https://solved.ac/profile/tjsgnrla
+티스토리 : [티스토리](https://tjsgnrla.tistory.com/)
+https://tjsgnrla.tistory.com/
+벨로그 : [벨로그](https://velog.io/@tjsgnrla97)
+https://velog.io/@tjsgnrla97
 
 ---
 
@@ -152,13 +166,4 @@ https://github.com/tjsgnrla97/ZZAZO
 링크 : [누리봄](https://github.com/tjsgnrla97/NURIBOM)
 https://github.com/tjsgnrla97/NURIBOM
 
----
 
-### 기타
-
-백준 : [백준](https://solved.ac/profile/tjsgnrla)
-https://solved.ac/profile/tjsgnrla
-티스토리 : [티스토리](https://tjsgnrla.tistory.com/)
-https://tjsgnrla.tistory.com/
-벨로그 : [벨로그](https://velog.io/@tjsgnrla97)
-https://velog.io/@tjsgnrla97
